@@ -5,6 +5,8 @@ npm run dev
 npm installl nodemon@2 -D
 npm install socket.io@4
 
+Rodando:
+npm run dev
 
 Recursos Utilizados:
 JS
